@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fxb1dbfeee03e342",
+    "internalipaddress": "192.168.11.99",
+    "port": 443
+  },
+  {
+    "id": "axc2gnqefe25f191",
+    "internalipaddress": "192.168.21.12",
+    "port": 443
+  }
+]
